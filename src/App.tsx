@@ -23,8 +23,9 @@ function App() {
 						</div>
 						<div className="col-8 col-7-large col-12-medium">
 							<header>
-								<h1>Hi. I'm <strong>Roberth Silva</strong>.</h1>
+								<h1>Hi. I'm <strong>Roberth Silva</strong></h1>
 							</header>
+							<p>I'm a Software Engineering 🚀 from Brazil, passionate about technology and soccer ⚽.I have been working with development and coding since 2009, precisely with web development, and recently coding for mobile devices with react native.</p>
 							<p>This site is under construction</p>
 							<a href="#work" className="button large scrolly">Learn about what I do</a>
 						</div>
